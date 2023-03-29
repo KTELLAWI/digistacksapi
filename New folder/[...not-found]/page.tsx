@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation'
 import { FC } from 'react'
 
 const page: FC = () => {
-  // notFound()
+  notFound()
 }
 
 export default page
